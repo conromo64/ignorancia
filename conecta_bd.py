@@ -31,4 +31,4 @@ def recupera_preguntas(cat):
     print(preguntas)
     #cerrar la base de datos
     conn.close()
-    return preguntas
+    return preguntas #hvbfevjhbfekvhb k kbvkfehbvhfev
